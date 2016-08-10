@@ -7,18 +7,24 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="css/modalbox.css">
-    <title>Modal Box</title>
+    <title>Modal Box v1.0</title>
 </head>
 <body>
     <!-- Trigger/Open The Modal -->
-    <button id="open-modal" data-target="mymodal">Open Modal box</button> <br />
+    <button id="open-modal" data-target="mymodal">Open small Large</button> <br />
 
     <!-- The Modal Small -->
     <div class="modal-sec-overlay" id="mymodal">
-        <!-- Modal content -->
-        <div class="modal-content modal-small" id="modal-content">
-            <button id="close-modal" data-target="mymodal">x</button>
-            <p>Small Modal..</p>
+        <!-- Modal Box -->
+        <div class="modal-box modal-small" id="modal-box">
+            <!-- Modal Close Button --> 
+            <button id="close-modal" data-target="mymodal" class="close-btn">x</button>
+            <!-- Modal Title -->
+            <div class="modal-title">Modal Exemple</div>
+            <!-- Modal content -->
+            <div class="modal-content">
+                <p>This is some text</p>
+            </div>
         </div>
     </div>
     <script type="text/javascript" src="js/modalbox.js"></script>

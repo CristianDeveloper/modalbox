@@ -19,7 +19,7 @@
 }
 
 /* Modal Content/Box */
-.modal-content {
+.modal-box {
     background-color: #fefefe;
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
@@ -36,18 +36,34 @@
 }
 
 /* The Close Button */
-.modal-close-btn {
+.close-btn {
+    background-color: #FFF;
     color: #aaa;
     float: right;
-    font-size: 28px;
+    font-size: 15px;
     font-weight: bold;
+    border: none;
 }
 
-.modal-close-btn:hover,
-.modal-close-btn:focus {
+.close-btn:hover,
+.close-btn:focus {
+    outline: none;
     color: black;
     text-decoration: none;
     cursor: pointer;
+}
+
+/* Modal Box Components */
+.modal-title {
+    font-size: 18px;
+    padding: 5px;
+    font-family: sans-serif;
+    border-bottom: 1px solid #CCC;
+}
+.modal-content {
+    padding: 5px;
+    font-size: 12px;
+    font-family: sans-serif;
 }
 
 /* Modal Animation */

@@ -2,6 +2,9 @@
 
 ## Usage
 
+Just replace the modal name ```mymodal``` with your desired name.
+Exemple: from ``` data-target="mymodal" ``` to ``` data-target="modalexemple" ```.
+
 ```
 <!DOCTYPE html>
 <html>
@@ -40,5 +43,5 @@
 
 ```
 
-## Demo
-[Open Demo](http://demo.dev-cristian.tk/javascript/modalbox/)
+## Modal Demo
+#####[Open Demo](http://demo.dev-cristian.tk/javascript/modalbox/)

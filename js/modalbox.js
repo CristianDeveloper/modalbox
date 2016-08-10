@@ -12,7 +12,7 @@ var open = document.getElementById('open-modal');
 var close = document.getElementById('close-modal');
 
 //Get Modal Contend
-var content = document.getElementById('modal-content');
+var content = document.getElementById('modal-box');
 
 //Get Modal Target (Ex: data-target="modal-name")
 var element = document.getElementById('open-modal').getAttribute('data-target');

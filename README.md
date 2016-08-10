@@ -32,3 +32,10 @@
 </html>
 
 ```
+## Modal size 
+```
+.modal-small - 300px
+.modal-medium - 500px
+.modal-large - 700px
+
+```

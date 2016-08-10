@@ -39,3 +39,6 @@
 .modal-large - 700px
 
 ```
+
+## Demo
+[Open Demo](http://demo.dev-cristian.tk/javascript/modalbox/)

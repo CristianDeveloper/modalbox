@@ -43,5 +43,15 @@ Exemple: from ``` data-target="mymodal" ``` to ``` data-target="modalexemple" ``
 
 ```
 
+## Modal Settings
+```
+<script>
+var animationDuration = ""; // Set time for animation by default 0.5s
+var openAnimation = ""; // true to start the animation or false to disable the animation by default true
+</script>
+
+```
+
+
 ## Modal Demo
 #####[Open Demo](http://demo.dev-cristian.tk/javascript/modalbox/)

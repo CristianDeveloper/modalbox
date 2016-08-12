@@ -20,11 +20,24 @@ var element = document.getElementById('open-modal').getAttribute('data-target');
 //Set Modal Name
 var modal = document.getElementById(element);
 
+//Check Settings
+if (!animationDuration) {
+    var animationDuration = "0.5s"; //Defaut
+}
+if (openAnimation === true) {
+    var openAnimation = "open-modal-animation";
+}
+if (openAnimation === false) {
+    var openAnimation = null;
+}else{
+    var openAnimation = "open-modal-animation";
+} 
+
 //Open Modal
 open.onclick = function() {
     modal.style.display = "block";
-    content.style.animation = "open-modal-animation";
-    content.style.animationDuration = "0.5s";
+    content.style.animation = openAnimation;
+    content.style.animationDuration = animationDuration;
 }
 
 //Close Modal

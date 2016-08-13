@@ -1,6 +1,6 @@
 # Simple JavaScript and CSS Modalbox
 
-[![Code Climate](https://codeclimate.com/repos/57aef19d77cc124707002c2e/badges/9f86191f5a4dadcdee0b/gpa.svg)](https://codeclimate.com/repos/57aef19d77cc124707002c2e/feed)
+[![Code Climate](https://codeclimate.com/repos/57aef19d77cc124707002c2e/badges/9f86191f5a4dadcdee0b/gpa.svg)](https://codeclimate.com/repos/57aef19d77cc124707002c2e/feed) [![Code Issues](https://www.quantifiedcode.com/api/v1/project/5aa10e6a71bb479c9719fd56cfa8c2c7/badge.svg)](https://www.quantifiedcode.com/app/project/5aa10e6a71bb479c9719fd56cfa8c2c7)
 
 ## Usage
 

@@ -1,5 +1,7 @@
 # Simple JavaScript and CSS Modalbox
 
+[![Code Climate](https://codeclimate.com/repos/57aef19d77cc124707002c2e/badges/9f86191f5a4dadcdee0b/gpa.svg)](https://codeclimate.com/repos/57aef19d77cc124707002c2e/feed)
+
 ## Usage
 
 Just replace the modal name ```mymodal``` with your desired name.

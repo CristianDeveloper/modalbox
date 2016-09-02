@@ -56,4 +56,4 @@ var openAnimation = ""; // true to start the animation or false to disable the a
 
 
 ## Modal Demo
-#####[Open Demo](http://demo.dev-cristian.tk/javascript/modalbox/)
+#####[Open Demo](https://cristiandeveloper.github.io/modalbox/)
